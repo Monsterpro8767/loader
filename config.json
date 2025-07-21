@@ -1,7 +1,7 @@
 {
   "lib1": {
     "status": "on",
-    "url": "https://your.real.server.com/api"
+    "url": "https://api.gsrajput.shop/gs/connect"
   },
   "lib2": {
     "status": "off",
