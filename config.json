@@ -1,0 +1,10 @@
+{
+  "lib1": {
+    "status": "on",
+    "url": "https://your.real.server.com/api"
+  },
+  "lib2": {
+    "status": "off",
+    "url": "https://dummy.server.com/api"
+  }
+}
