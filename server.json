@@ -1,0 +1,5 @@
+{
+  "status": "on",
+  "rules": "Rules to follow :-\n1. Restart Game After every Match\n2. Clear Cache\n3. Rename Obb & Data Folder\nEnjoy!",
+  "off_message": "Server is currently under maintenance. Please wait for update."
+}
